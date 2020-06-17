@@ -1,0 +1,33 @@
+.header{
+    height: 82px;
+    flex:1;
+    background-color: #121a21;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+.text-white{
+    color: white;
+}
+.image-logo {
+    width: 128px;
+    height: 37px;
+    padding-left: 25px;
+    object-fit: contain;
+  }
+.left{
+float: left;
+}
+.inline{
+  display: inline;
+}
+.left-header{
+  display: flex;
+  align-items: center;
+  width: 65%;
+
+}

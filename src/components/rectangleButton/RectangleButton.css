@@ -1,0 +1,42 @@
+.menu-blue-btn {
+    border:none;
+    width: 152px;
+    height: 45px;
+    border-radius: 40px;
+    background-image: linear-gradient(to left, #1896de, #71ccff);
+  }
+.slider-blue-btn {
+    border:none;
+    width: 152px;
+    height: 45px;
+    border-radius: 40px;
+    background-image: linear-gradient(to left, #1896de, #71ccff);
+  }
+.subscription-blue-btn{
+    border:none;
+    width: 135px;
+    height: 52px;
+    border-radius: 50px;
+    background-image: linear-gradient(269deg, #1896de 100%, #71ccff 3%);
+}
+
+.get-started {
+    width: 92px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: right;
+    color: #ffffff;
+  }
+  .right{
+      float: right;
+  }
+  .right-20{
+    margin: 20px;
+}
+  

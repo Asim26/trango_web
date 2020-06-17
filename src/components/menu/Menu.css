@@ -1,0 +1,15 @@
+.nav-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #fff;
+}
+.nav-menu li{
+    display: inline;
+    margin: 0 25px;
+}
+
+.left-25{
+    margin-left: 25px;
+}

@@ -1,0 +1,1 @@
+export const IC_MAIN_LOGO = require('./logo.png'); 
