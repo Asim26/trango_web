@@ -1,0 +1,68 @@
+
+.body-right-div{
+    background-color: #121aee;
+}
+.body-center-div{
+    background-color: #121a88;
+}
+.body-left-div{
+    background-color: #121a00;
+}
+.w-100{
+    width: 100%;
+}
+.partner-with-us-div{
+    height: 243px;
+    background-image: linear-gradient(to left, #1896de 94%, #71ccff 3%);
+}
+.bottom-cards{
+    background-color: #121a21;
+}
+.blog-div{
+    background-color: #121a21;
+
+}
+
+.ready-to-see-what-were-building {
+
+    /*font-family: Axiforma;
+    */
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .ready-to-see-what-were-building .text-style-1 {
+    color: #1896de;
+  }
+
+  .card-custom{
+    border-radius: 10px;
+    box-shadow: 0 7px 36px 0 rgba(0, 0, 0, 0.39);
+    background-image: linear-gradient(to bottom, #303f4d 35%, #0e141a);
+  }
+  .card-desc-custom{
+    opacity: 0.5;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .card-heading-custom{
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }

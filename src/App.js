@@ -1,11 +1,11 @@
 import React from 'react';
 //import logo from './logo.svg';
 import './App.css';
-import { Header } from './components/header';
+import { HomeScreen } from './screens/homeScreen';
 
 function App() {
   return (
-    <Header />
+    <HomeScreen />
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />

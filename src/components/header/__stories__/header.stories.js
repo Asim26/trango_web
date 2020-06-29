@@ -1,6 +1,6 @@
 import React from 'react';
 import { linkTo } from '@storybook/addon-links';
-import { Header } from '../components/header';
+import { Header } from '..';
 
 export default {
   title: 'Header',

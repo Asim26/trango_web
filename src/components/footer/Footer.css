@@ -1,0 +1,122 @@
+
+.footer-div{
+    flex: 1;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    bottom: 0;
+    
+}
+.footer-right-div{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+}
+.footer-center-div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 2%;
+}
+.footer-left-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-left-div > div > img{
+    margin-top: 10%;
+    margin-bottom: 50%;
+}
+.footer-left-div > div {
+    padding-left: 5%;
+}
+footer{
+    align-self:flex-end;
+    background-image: linear-gradient(to bottom, #000000, #1d2731);
+}
+.footer-logo{
+    width: 60px;
+    height: 64px;
+    object-fit: contain;
+  }
+  .footer-copyright{
+    height: 20px;
+    opacity: 0.5;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .footer-div > img{
+      width: 120%;
+  }
+  .footer-container{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    bottom: 0;
+    padding: 2% 5% 4% 5%;    
+  }
+
+  .footer-container > div:nth-of-type(1) {flex-grow: 2;}
+  .footer-container > div:nth-of-type(2) {flex-grow: 3;}
+  .footer-container> div:nth-of-type(3) {flex-grow: 2;}
+  
+  .footer-col:nth-of-type(2) {padding-left: 2%;}
+  .footer-col:nth-of-type(3) {padding-left: 6%;}
+
+
+  .footer-col {
+      min-width: 130px;
+  }
+  .footer-col > p {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: 2.8px;
+    text-align: left;
+    color: #1896de;
+  }
+  .footer-col-content > ul {
+    font-family: Poppins;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #fff;
+  }
+  .footer-col-content > ul li a{
+    text-decoration: none;
+    font-family: Poppins;
+    font-size: 14px;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .appdownloads{
+    flex-direction: row;
+    display: flex;
+    white-space:nowrap;
+  }
+  .appdownloads >li{
+      padding-right: 6%;
+  }
