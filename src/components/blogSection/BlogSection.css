@@ -11,10 +11,6 @@
 .w-100{
     width: 100%;
 }
-.partner-with-us-div{
-    height: 243px;
-    background-image: linear-gradient(to left, #1896de 94%, #71ccff 3%);
-}
 .bottom-cards{
     background-color: #121a21;
 }
@@ -66,3 +62,7 @@
     text-align: left;
     color: #ffffff;
   }
+  .blog-container{
+    max-width: 100%;
+    padding: 5%;
+}

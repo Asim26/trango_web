@@ -1,0 +1,110 @@
+.our-product-div{
+    background-color: #edf4fa;
+    padding: 7% 0;
+}
+.our-product-heading{
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+}
+.our-product-text{
+    padding-top:6% ;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.72;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+    width: 80%;
+}
+.our-product-card-heading{
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+}
+.our-product-card-desc {
+    font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.94;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1d2731;
+}
+.card-body .card-learn-more{
+    padding: 5% 0;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1896de;
+}
+.our-product-left-box{
+padding: 5% 7%;
+}
+.bottom-cards {
+    background-color: #121a21;
+}
+
+.trango-is-simple-h {
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1896de;
+}
+
+.trango-is-simple-h .text-style-1 {
+    color: #1d2731;
+}
+
+.trango-simple-screen {
+    margin: 36px 0px;
+}
+
+.card-carousel{
+        border-radius: 10px;
+        background-color: #dbe6f0;
+        margin: 0 2%;
+      
+}
+.card-learn-mpore{
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1896de;
+}
+.card-img-icon{
+    margin: 10%;
+    /* width: 120px; */
+    width: 76px;
+}
+.m-0{
+    margin: 0px  !important;
+}

@@ -20,6 +20,19 @@
     background-image: linear-gradient(269deg, #1896de 100%, #71ccff 3%);
 }
 
+.contact-us-white-btn{
+  border:none;
+  width: 152px;
+  height: 45px;
+  border-radius: 40px;
+  background-color: #fff;
+}
+.contact-us-white-btn span{
+  color: #000;
+  font-weight: 500;
+
+}
+
 .get-started {
     width: 92px;
     height: 23px;

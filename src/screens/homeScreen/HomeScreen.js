@@ -1,10 +1,10 @@
 import React from 'react';
 import { Header } from '../../components/header';
 import { Body } from '../../components/body';
-import { BlogSection } from '../../components/blogSection';
+import { SectionFour } from '../../components/sectionFour';
 
-import { Container, Row, Col, Card , Button} from 'react-bootstrap';
-import { IC_ABOVEFOLD, IC_PARTNER_WITHUS , IC_BLOG_1, IC_BLOG_2, IC_BLOG_3} from '../../images'
+import { SectionFive } from '../../components/sectionFive';
+import { BlogSection } from '../../components/blogSection';
 
 
 import { Footer } from '../../components/footer';
@@ -18,7 +18,9 @@ export class HomeScreen extends React.Component {
             <div className="main-container">
                 <Header />
                 <Body />
-                <BlogSection/>
+                <SectionFour />
+                <SectionFive />
+                <BlogSection />
                 <Footer />
             </div>
         );

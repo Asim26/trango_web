@@ -7,7 +7,15 @@ export const IC_BLOG_1 = require('./homePage/block1.png');
 export const IC_BLOG_2 = require('./homePage/block2.png'); 
 export const IC_BLOG_3 = require('./homePage/block3.png'); 
 export const IC_TRANGO_SIMPLE_SCREEN = require('./homePage/scanScreen.png'); 
+export const IC_TRANGO_SIMPLE_AUDIO = require('./trangoIsSimple/audio@2x.png'); 
+export const IC_TRANGO_SIMPLE_CHAT = require('./trangoIsSimple/chat@2x.png'); 
+export const IC_TRANGO_SIMPLE_FILESHARING =require('./trangoIsSimple/fileSharing@2x.png');  
+export const IC_TRANGO_SIMPLE_LOCALCOM = require('./trangoIsSimple/localCom@2x.png'); 
 
+
+export const IC_SEC_4_CONSUMER = require('./sectionFour/consumer@2x.png');
+export const IC_SEC_4_BUSINESS = require('./sectionFour/business@2x.png');
+export const IC_SEC_4_HOSTED = require('./sectionFour/hosted@2x.png');
 
 
 

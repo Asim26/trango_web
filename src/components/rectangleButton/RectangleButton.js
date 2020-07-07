@@ -8,6 +8,8 @@ export class RectangleButton extends React.Component {
     getClassName() {
         if (this.props.fromWhere === 'header') {
             return "menu-blue-btn";
+        } else if(this.props.fromWhere === 'contactUs'){
+            return "contact-us-white-btn";
         }
     }
     render() {

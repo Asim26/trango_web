@@ -1,34 +1,69 @@
-
-.body-right-div{
+.body-div{
+    background-color: #edf4fa;
+}
+.body-right-div {
     background-color: #121aee;
 }
-.body-center-div{
+
+.body-center-div {
     background-color: #121a88;
 }
-.body-left-div{
+
+.body-left-div {
     background-color: #121a00;
 }
-.partner-with-us-div{
-    height: 243px;
-    background-image: linear-gradient(to left, #1896de 94%, #71ccff 3%);
+.trango-is-simple-h {
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1896de;
 }
-.bottom-cards{
-    background-color: #121a21;
+.trango-is-simple-desc{
+    padding: 2% 13%;
 }
-.trango-is-simple-h{
-        font-size: 50px;
-        font-weight: 600;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 1.84;
-        letter-spacing: normal;
-        text-align: left;
-        color: #1896de;
-}
+
 .trango-is-simple-h .text-style-1 {
     color: #1d2731;
+}
 
-  }
-  .trango-simple-screen{
+.trango-simple-screen {
     margin: 36px 0px;
-  }
+}
+.trango-simple-card{
+    margin-top: 35%;
+}
+.trango-simple-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: right;
+    color: #1d2731;
+}
+.trango-simple-card-desc{
+    font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #1d2731;
+}
+.trango-simple-card-img{
+padding: 1.5%;
+}
+.p-5percent{
+    padding: 5%;
+}
+.p-right-0{
+    padding-right: 0;
+}
+.p-left-0{
+    padding-right: 0;
+}

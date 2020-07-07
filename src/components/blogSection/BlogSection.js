@@ -2,7 +2,7 @@ import React from 'react';
 import './BlogSection.css';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 
-import { IC_ABOVEFOLD, IC_PARTNER_WITHUS, IC_BLOG_1, IC_BLOG_2, IC_BLOG_3 } from '../../images'
+import { IC_BLOG_1, IC_BLOG_2, IC_BLOG_3 } from '../../images'
 
 export class BlogSection extends React.Component {
     render() {
@@ -16,7 +16,7 @@ export class BlogSection extends React.Component {
                         </Col>
                     </Row>
                 </Container>
-                <Container className="justify-content-md-center bottom-cards w-100">
+                <Container className="justify-content-md-center bottom-cards w-100 blog-container">
                     <Row>
                         <Col xs="12" md="4">
                             <Card className="card-custom">
