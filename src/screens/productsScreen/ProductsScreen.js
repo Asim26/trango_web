@@ -5,6 +5,8 @@ import { ConsumerApp } from '../../components/consumerApp';
 import { SelfHosted } from '../../components/selfHosted';
 import { SelfCloudHosted } from '../../components/selfCloudHosted';
 
+import { Footer } from '../../components/footer';
+
 // Shift ALt O   ... to remove unnecessary imports
 export class ProductsScreen extends React.Component {
     render() {
@@ -13,7 +15,9 @@ export class ProductsScreen extends React.Component {
                 <SecureComm />
                 <ConsumerApp />
                 <SelfHosted />
-                <SelfCloudHosted />               
+                <SelfCloudHosted />
+
+                <Footer/>               
          </div>
         );
     }

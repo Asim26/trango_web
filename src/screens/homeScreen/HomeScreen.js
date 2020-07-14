@@ -20,7 +20,7 @@ export class HomeScreen extends React.Component {
     render() {
         return (
             <div className="main-container">
-                <Header />
+                {/* <Header /> */}
                 <SectionOne />
                 <Body />
                 <SectionThree/>
@@ -31,9 +31,9 @@ export class HomeScreen extends React.Component {
 
                 
                 
-                <FindYourAnswer />
+                {/* <FindYourAnswer />
 
-                <PrivacyPolicy />
+                <PrivacyPolicy /> */}
             </div>
         );
     }

@@ -7,10 +7,10 @@ import { IC_MAIN_LOGO } from '../../images'
 export class Header extends React.Component {
     render() {
         let links =[
-            {lable: 'Products' , link:'#Products'},
-            {lable: 'Pricing' , link:'#Pricing'},
-            {lable: 'Support' , link:'#Support'},
-            {lable: ' Contact us' , link:'# ContactUs'},
+            {lable: 'Products' , link:'/products'},
+            {lable: 'Pricing' , link:'/pricing'},
+            {lable: 'Support' , link:'/support'},
+            {lable: ' Contact us' , link:'/contactUs'},
         ];
         return (
             <div className="header">
