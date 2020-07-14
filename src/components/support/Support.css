@@ -1,0 +1,104 @@
+.support-div{
+  width: 100%;
+  height: 100%;
+  background-color: #121a21;
+
+
+}
+.support-heading{
+  
+  font-family: Axiforma;
+  font-size: 50px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.84;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1896de;
+
+  background: linear-gradient(to right, #71ccff , #1896de);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 10px rgba(0,0,0,.5);
+  
+  margin-top: 125px;
+  margin-left: 0px;
+ 
+}
+.support-content{
+  font-family: Axiforma;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+
+  margin-top: -26px;
+  margin-left: 0px;
+}
+
+.search{
+  width: 566px;
+  height: 49px;
+  border-radius: 50px;
+  box-shadow: 0 3px 13px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+
+  margin-left: 257px;
+  padding-left: 53px;
+  margin-bottom: -48px;
+}
+
+.body-support-div{
+  width: 100%;
+  height: 100%;
+  background-color: #edf4fa;
+
+  padding-bottom: 7%;
+}
+
+.list{
+ text-decoration: none;
+ list-style-type: none;
+ margin-top: 0px;
+}
+
+.nav-links{
+  margin-top: 79px;
+}
+
+.privacy-col{
+  margin-top: 79px;
+}
+.video-col{
+  margin-top: 79px;
+}
+
+
+.about-link {
+  margin-bottom: 6%;
+}
+.pricing-link{
+  margin-bottom: 6%;
+}
+.deploy-link{
+  margin-bottom: 6%;
+}
+.more-1-link{
+  margin-bottom: 6%;
+}
+.more-2-link{
+  margin-bottom: 6%;
+}
+
+.faq-div{
+  width: 100%;
+  height: 100%;
+  background-color: #edf4fa;
+
+  margin-top: 33px;
+}

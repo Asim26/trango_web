@@ -1,0 +1,97 @@
+.privacy-div{
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
+.updated-1{
+    opacity: 0.5;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.72;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+
+    margin-top: 60px;
+}
+.privacy-policy-heading{
+    font-family: Axiforma;
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1896de;
+
+    margin-top: -24px;
+}
+.privacy-policy-content{
+    font-family: Axiforma;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+
+    margin-top: -20px;
+}
+
+.privacy-div-body{
+    width: 100%;
+    height: 100%;
+    background-color: #edf4fa;
+}
+.privacy-div-margin{
+    margin-top: 9%;
+}
+.list-privacy-policy{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.intro{
+    margin-bottom: 6%;
+}
+.application{
+    margin-bottom: 6%;
+}
+.change-to-privacy-policy{
+    margin-bottom: 6%;
+}
+.country-of-processing{
+    margin-bottom: 6%;
+}
+.the-purpose{
+    margin-bottom: 6%;
+}
+
+.privacy-heading-style{
+    font-family: Axiforma;
+    font-size: 26px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+}
+.privacy-content-style{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1d2731;
+}

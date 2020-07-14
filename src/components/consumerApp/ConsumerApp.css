@@ -1,0 +1,179 @@
+.consumer-app-div{
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(119deg, #374858, #1c2630);
+
+  padding-bottom: 6%;
+  padding-top: 2%;
+}
+
+.free-style{
+  width: 48px;
+  height: 31px;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: normal;
+  text-align: left;
+  color: #54c9fc;
+  margin-top: 52px;
+}
+
+.consumer-app-style h3 {
+  width: 442px;
+  height: 70px;
+  text-shadow: 0 8px 30px rgba(24, 150, 222, 0.22);
+  font-family: Axiforma;
+  font-size: 80px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+} 
+
+.para-style p{
+  width: 505px;
+  height: 87px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.72;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+
+  margin-top: 145px;
+
+}
+
+/* .chat-style{
+  width: 40px;
+  height: 16px;
+  font-family: Axiforma;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+
+  margin-right: 72px;
+} */
+
+.im{
+  float: right;
+  margin-right: 218px;
+}
+
+/* .pc{
+  position: absolute;
+  top: -126px;
+  left: 106px;
+
+}
+.pc-content{
+  position: absolute;
+  top: -40px;
+  left: 261px;
+} */
+.chat-logo{
+  position: absolute;
+  bottom: 31px;
+}
+
+.chat-style{
+  font-family: Axiforma;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+
+  position: absolute;
+  bottom: 0px;
+  left: 29px;
+}
+
+.audio-logo{
+  margin-left: 121px;
+}
+
+.audio-call-style{
+  font-family: Axiforma;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  
+  position: absolute;
+  left: 127px;
+  bottom: -3px;
+}
+
+.video-logo{
+  position: absolute;
+    bottom: 26px;
+    left: 268px;
+}
+
+.video-call-style{
+  font-family: Axiforma;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff; 
+
+  position: absolute;
+    left: 253px;
+    bottom: 0;
+}
+
+.file-sharing-logo{
+  position: absolute;
+    bottom: 26px;
+    left: 414px;
+}
+
+.file-sharing-style{
+  font-family: Axiforma;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff; 
+
+  position: absolute;
+    bottom: 0;
+    left: 400px;
+}
+
+.consumer-app-img{
+  position: absolute;
+    right: -146px;
+    height: 497px;
+    bottom: 10px;
+}

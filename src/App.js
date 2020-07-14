@@ -1,11 +1,23 @@
 import React from 'react';
 //import logo from './logo.svg';
 import './App.css';
+
 import { HomeScreen } from './screens/homeScreen';
+import { PricingScreen } from './screens/pricingScreen';
+import { ProductsScreen } from './screens/productsScreen/ProductsScreen';
+import { SupportScreen } from './screens/supportScreen';
+import { ContactusScreen } from './screens/contactusScreen';
+
 
 function App() {
   return (
-    <HomeScreen />
+    <div>
+      <HomeScreen />
+      <ProductsScreen/>
+      <PricingScreen/>
+      <SupportScreen/>
+      <ContactusScreen/>
+    </div>
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />

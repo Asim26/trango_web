@@ -1,0 +1,64 @@
+.secure-comm-div{
+  width:100%;
+  height:100%;
+  background-color: #121a21;
+  padding: 110px;
+}
+
+.secure-font-style{
+  font-size: 75px;
+  background: linear-gradient(to right, #71ccff , #1896de);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 10px rgba(0,0,0,.5);
+  margin-bottom: -19px;
+}
+
+.comm-font-style {
+  font-family: Axiforma;
+  font-size: 80px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.para-font-style{
+  width: 600px;
+  height: 87px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.72;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+
+  margin: auto;
+}
+.pricing-button{
+  height: 37px;
+  width: 115px;
+  border-radius: 27px;
+  margin-left: 489px;
+  margin-top: 37px;
+  color: #ffffff;
+  border-radius: 33px;
+
+}
+.prc-blue-btn{
+  border: none;
+      width: 152px;
+      height: 45px;
+      border-radius: 40px;
+      background-image: linear-gradient(to left, #1896de, #71ccff);
+  
+    margin-bottom: 30px;
+    margin-left: 476px;
+    margin-top: 25px;
+    
+}

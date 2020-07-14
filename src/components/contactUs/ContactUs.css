@@ -1,0 +1,192 @@
+.contact-us-div{
+    background-color: #121a21;
+
+}
+.contact-us{
+    width: 278px;
+    height: 50px;
+    font-family: Axiforma;
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.84;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.contact-us-content{
+    width: 402px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.72;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-top: 30px;
+}
+
+.full-name{
+    width: 346px;
+    height: 52px;
+    border-radius: 50px;
+    background-color: #1d2731;
+    border-color: transparent;
+
+    padding: 24px;
+    margin-top: 26px;
+}
+
+.email-address{
+  width: 346px;
+  height: 52px;
+  border-radius: 50px;
+  background-color: #1d2731;
+  border-color: transparent;
+
+  margin-top: 21px;
+  padding: 24px;
+}
+
+.message{
+    width: 346px;
+    height: 142px;
+    border-radius: 19px;
+    background-color: #1d2731;
+
+    border-color: transparent;
+    margin-top: 23px;
+}
+
+.submit-blue-btn{
+    border: none;
+      width: 152px;
+      height: 45px;
+      border-radius: 40px;
+      background-image: linear-gradient(to left, #1896de, #71ccff);
+
+      margin-top: 21px;      
+  }
+
+.location-logo{
+    margin-top: 85px;
+    margin-left: 109px;
+}
+.location-heading{
+    width: 91px;
+    height: 21px;
+    font-family: Axiforma;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-left: 184px;
+    margin-top: -57px;
+}
+
+.location-content{
+    width: 219px;
+    height: 54px;
+    opacity: 0.5;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-top: 17px;
+    margin-left: 183px;
+}
+.email-logo{
+  
+    margin-top: 90px;
+    margin-left: 112px;
+  
+}
+.email-heading{
+    width: 63px;
+    height: 21px;
+    font-family: Axiforma;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-left: 184px;
+    margin-top: -57px;
+}
+.email-content{
+    width: 152px;
+    height: 23px;
+    opacity: 0.5;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-top: 17px;
+    margin-left: 183px;
+}
+
+.phone-logo{
+    margin-top: 86px;
+    margin-left: 109px;    
+}
+
+.phone-heading{
+    width: 70px;
+    height: 20px;
+    font-family: Axiforma;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    
+    margin-left: 184px;
+    margin-top: -57px; 
+}
+.phone-content{
+    width: 140px;
+    height: 23px;
+    opacity: 0.5;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+    margin-top: 17px;
+    margin-left: 183px;   
+}
