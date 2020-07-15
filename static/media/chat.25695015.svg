@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="61.95" viewBox="0 0 59 61.95">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.7;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#374757"/>
+      <stop offset="1" stop-color="#7594af"/>
+    </linearGradient>
+  </defs>
+  <g id="_002-notifications" data-name="002-notifications" transform="translate(-2.5 -1.054)">
+    <path id="Path_82" data-name="Path 82" class="cls-1" d="M35.3,59a8.476,8.476,0,0,0,14.4,0Z"/>
+    <path id="Path_83" data-name="Path 83" class="cls-1" d="M59,52h-.5V35a16,16,0,1,0-32,0V52H26a2.5,2.5,0,0,0,0,5H59a2.5,2.5,0,1,0,0-5Z"/>
+    <g id="Group_191" data-name="Group 191">
+      <path id="Path_84" data-name="Path 84" class="cls-2" d="M52.5,8A7,7,0,0,0,38.58,7H5.5a3,3,0,0,0-3,3V36a3,3,0,0,0,3,3h3v2.586A2,2,0,0,0,11.914,43l4-4H26.5v3a3,3,0,0,0,3,3h9.554l4,4a2,2,0,0,0,3.414-1.414V45H49.5a3,3,0,0,0,3-3V29a3,3,0,0,0-3-3h-3V14.92A7.006,7.006,0,0,0,52.5,8Zm-7-5a5,5,0,1,1-5,5,5,5,0,0,1,5-5Zm5,26V42a1,1,0,0,1-1,1H45.468a1,1,0,0,0-1,1v3.586l-4.293-4.293A1,1,0,0,0,39.468,43H29.5a1,1,0,0,1-1-1V29a1,1,0,0,1,1-1h20A1,1,0,0,1,50.5,29Zm-21-3a3,3,0,0,0-2.816,2H12.5a1,1,0,0,0,0,2h14v7h-11a1,1,0,0,0-.707.293L10.5,41.586V38a1,1,0,0,0-1-1h-4a1,1,0,0,1-1-1V10a1,1,0,0,1,1-1H38.58a7,7,0,0,0,5.92,5.92V26Z"/>
+      <path id="Path_85" data-name="Path 85" class="cls-2" d="M36.5,16h-24a1,1,0,0,0,0,2h24a1,1,0,0,0,0-2Z"/>
+      <path id="Path_86" data-name="Path 86" class="cls-2" d="M36.5,22h-24a1,1,0,0,0,0,2h24a1,1,0,0,0,0-2Z"/>
+      <path id="Path_87" data-name="Path 87" class="cls-2" d="M33.5,34h12a1,1,0,0,0,0-2h-12a1,1,0,0,0,0,2Z"/>
+      <path id="Path_88" data-name="Path 88" class="cls-2" d="M33.5,39h6a1,1,0,0,0,0-2h-6a1,1,0,0,0,0,2Z"/>
+    </g>
+  </g>
+</svg>

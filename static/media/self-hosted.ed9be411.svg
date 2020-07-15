@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #1d2731;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#374757"/>
+      <stop offset="1" stop-color="#7594af"/>
+    </linearGradient>
+  </defs>
+  <g id="_001-server" data-name="001-server" transform="translate(-1 -1)">
+    <path id="Path_1670" data-name="Path 1670" class="cls-1" d="M60,21H34.829a1,1,0,0,1-.708-.293l-2.828-2.828A2.978,2.978,0,0,0,29.171,17H24a3,3,0,0,0-3,3v5H16a3,3,0,0,0-3,3V60a3,3,0,0,0,3,3H52a3,3,0,0,0,3-3V55h5a3,3,0,0,0,3-3V24a3,3,0,0,0-3-3Zm1,31a1,1,0,0,1-1,1H55V32a3,3,0,0,0-3-3H26.829a1,1,0,0,1-.708-.293l-2.828-2.828A2.906,2.906,0,0,0,23,25.638V20a1,1,0,0,1,1-1h5.171a1,1,0,0,1,.708.293l2.828,2.828A2.978,2.978,0,0,0,34.829,23H60a1,1,0,0,1,1,1Z"/>
+    <g id="Group_1320" data-name="Group 1320">
+      <path id="Path_1671" data-name="Path 1671" class="cls-2" d="M51,4a3,3,0,0,0-3-3H4A3,3,0,0,0,1,4v8a2.981,2.981,0,0,0,.78,2A2.981,2.981,0,0,0,1,16v8a2.981,2.981,0,0,0,.78,2A2.981,2.981,0,0,0,1,28v8a3,3,0,0,0,3,3H25v4.142A4,4,0,0,0,22.142,46H2a1,1,0,0,0,0,2H22.142a3.981,3.981,0,0,0,7.716,0H50a1,1,0,0,0,0-2H29.858A4,4,0,0,0,27,43.142V39H48a3,3,0,0,0,3-3V28a2.981,2.981,0,0,0-.78-2A2.981,2.981,0,0,0,51,24V16a2.981,2.981,0,0,0-.78-2A2.981,2.981,0,0,0,51,12ZM28,47a2,2,0,1,1-2-2A2,2,0,0,1,28,47ZM49,36a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V28a1,1,0,0,1,1-1H48a1,1,0,0,1,1,1Zm0-12a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V16a1,1,0,0,1,1-1H48a1,1,0,0,1,1,1Zm0-12a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V4A1,1,0,0,1,4,3H48a1,1,0,0,1,1,1Z"/>
+      <circle id="Ellipse_84" data-name="Ellipse 84" class="cls-2" cx="1" cy="1" r="1" transform="translate(6 7)"/>
+      <circle id="Ellipse_85" data-name="Ellipse 85" class="cls-2" cx="1" cy="1" r="1" transform="translate(11 7)"/>
+      <circle id="Ellipse_86" data-name="Ellipse 86" class="cls-2" cx="1" cy="1" r="1" transform="translate(16 7)"/>
+      <path id="Path_1672" data-name="Path 1672" class="cls-2" d="M45,7H22a1,1,0,0,0,0,2H45a1,1,0,0,0,0-2Z"/>
+      <circle id="Ellipse_87" data-name="Ellipse 87" class="cls-2" cx="1" cy="1" r="1" transform="translate(6 19)"/>
+      <circle id="Ellipse_88" data-name="Ellipse 88" class="cls-2" cx="1" cy="1" r="1" transform="translate(11 19)"/>
+      <circle id="Ellipse_89" data-name="Ellipse 89" class="cls-2" cx="1" cy="1" r="1" transform="translate(16 19)"/>
+      <path id="Path_1673" data-name="Path 1673" class="cls-2" d="M45,19H22a1,1,0,0,0,0,2H45a1,1,0,0,0,0-2Z"/>
+      <circle id="Ellipse_90" data-name="Ellipse 90" class="cls-2" cx="1" cy="1" r="1" transform="translate(6 31)"/>
+      <circle id="Ellipse_91" data-name="Ellipse 91" class="cls-2" cx="1" cy="1" r="1" transform="translate(11 31)"/>
+      <circle id="Ellipse_92" data-name="Ellipse 92" class="cls-2" cx="1" cy="1" r="1" transform="translate(16 31)"/>
+      <path id="Path_1674" data-name="Path 1674" class="cls-2" d="M45,31H22a1,1,0,0,0,0,2H45a1,1,0,0,0,0-2Z"/>
+    </g>
+  </g>
+</svg>
